@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Web Template</title>
+		<link href="css/reset.css" rel="stylesheet" type="text/css">
+		<link href="css/main.css" rel="stylesheet" type="text/css">
+	</head>
+	<body><h1>Midterm</h1>
+	
+	<section><h2>Bridgets Argument For the Best Fries</h2>
+		<p>This is an argument for the best french fries. I'd have to say, the best french fries are McDonalds. I love all french fries of course but McDonalds fries are cut thin and have a unique taste. I know it is due to the oil they use because McDonalds was my very first job when i was 15 years old. My sister was a McDonalds manager and she hired me as she felt i was a lazy teenager with no focus, lol. 
+		My diet today consists of mostly healthy foods but once in a blue moon, i still crave Mickey D's fries. I think they hold a special place in my tastebuds because of my time there in my youth in the 70's. 
+	    That being said i still think the crispyness, just the right amount of salt and the skinny cut is what makes them the best fries.</p>
+	</section>
+
+	<section><h2>Lunas Argument For the Best Fries</h2>
+		<p>This is an argument for the best french fries. I'd have to say, the best french fries are Wendys. Wendy's fries are always hot and just the right amount of crisy. Unlike McDonald's, they are fresh cut and thick and tasty. 
+		I don't believe Mcdonald's fries even compare because they are so thin you can hardly taste them, also they get cold way too fast. If i am craving fresh cut hot and crispy fries, Wendy's is my go too! 
+	    Just a side note: Wendy's was my Nanny's favorite place to eat when she wanted a fast food treat. She passed away 7yrs ago and whenever i have Wendy's fries, it puts a smile on my face and i feel close to her. </p>
+	</section>
+	<section>	
+		<h3>Who has the Best Fries?</h3>
+                         <img src="images/Bridget.jpeg" width="340" height="530" alt="Picture of a woman">
+                         
+                         <img src="images/McDonalds_fries.jpeg" width="540" height="340" alt="Picture of french fries">
+                         <img src="images/McDonalds.jpeg" width="340" height="340" alt="Picture of a McDonalds Restaurant">
+                         
+                         <img src="images/Luna.jpeg" width="340" height="530" alt="Picture of a young woman">
+		    		     
+		    		     <img src="images/Wendys_fries.jpeg" width="540" height="340" alt="Picture of a wendy's fries">
+		    		     
+		    		     <img src="images/Wendys.jpeg" width="340" height="340" alt="Picture of Wendys Restaurant">
+	</section>
+	</body>
+
+</html>
